@@ -34,10 +34,10 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 </td>
 </tr>
 </table>
--  **[FOCUSFLOW](https://github.com/Meghnaraman9/focusflow)** — A Chrome extension that blocks distractions better than I block my own excuses.
--  **[Luffy](https://github.com/Meghnaraman9/luffydudu-backend)** — A gym tracker named after the one guy who'd never skip a workout.
--  **[CAPTCHA recognition ](https://github.com/Meghnaraman9/Captcha)** —Teaching a machine to prove it's not a robot, ironically.
--  **[Lymphoblastic Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)**-Python + medical imaging, because I like my projects with actual stakes.
+- 𐙚 **[FocusFlow](https://github.com/Meghnaraman9/focusflow)** — A Chrome extension that blocks distractions better than I block my own excuses.
+- 𐙚 **[Luffy](https://github.com/Meghnaraman9/luffydudu-backend)** — A gym tracker named after the one guy who'd never skip a workout.
+- 𐙚 **[CAPTCHA recognition](https://github.com/Meghnaraman9/Captcha)** — Teaching a machine to prove it's not a robot, ironically.
+- 𐙚 **[Lymphoblastic Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)** — Python + medical imaging, because I like my projects with actual stakes.
 
 ---
 
