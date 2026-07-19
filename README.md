@@ -23,6 +23,48 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 </table>
 
 ---
+### Top Projects (built to avoid manual labor)
+
+<table>
+<tr>
+<td width="90"><img width="736" height="539" alt="Image" src="https://github.com/user-attachments/assets/3d19210a-c9d5-4a34-be3a-2e9df42266fb" /></td>
+<td>
+
+[FocusFlow](https://github.com/Meghnaraman9/focusflow)
+A Chrome extension that blocks distractions better than I block my own excuses.
+
+</td>
+</tr>
+<tr>
+<td width="90"><img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/0b8cfb94-d94f-431c-ad94-72c783cab7a1" />
+</td>
+<td>
+
+[Luffy](https://github.com/Meghnaraman9/luffydudu-backend)
+A gym tracker named after the one guy who'd never skip a workout.
+
+</td>
+</tr>
+<tr>
+<td width="90"><img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/1f58fdb9-2f75-4aa1-8136-7a6aa58584ca" />
+</td>
+<td>
+
+[Lymphoblastic Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)
+Python + medical imaging, because I like my projects with actual stakes.
+
+</td>
+</tr>
+<tr>
+<td width="90"></td>
+<td>
+
+**[CAPTCHA Recognition](https://github.com/Meghnaraman9/Captcha)
+Teaching a machine to prove it's not a robot, ironically.
+
+</td>
+</tr>
+</table>
 ###  Technologies
 
 <div align="center">
