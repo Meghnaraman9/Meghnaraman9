@@ -23,7 +23,7 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 </table>
 
 ---
-### 🛠 Technologies
+###  Technologies
 
 <div align="center">
 
@@ -59,7 +59,16 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 </table>
 
 ---
+### 📊 Statistics
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Meghnaraman9&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="48%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meghnaraman9&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%">
+
+</div>
+---
 ### Connect
 
 <div align="center">
