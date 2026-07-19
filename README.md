@@ -67,6 +67,6 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff)
+![Activity Graph](![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meghnaraman9&theme=github-compact&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff))
 
 </div>
