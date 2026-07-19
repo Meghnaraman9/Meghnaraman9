@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td width="140" valign="top">
-<img src="https://github.com/user-attachments/assets/d0f4f6ee-c9cc-4eab-9f53-880c2a041f2b" />"
+<img src="https://github.com/user-attachments/assets/d0f4f6ee-c9cc-4eab-9f53-880c2a041f2b" />
 <td valign="top">
 
 <h4>Hey there! I'm Meghana Raman</h4>
@@ -42,7 +42,7 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 
 </td>
 <td width="200" valign="top">
-<img src="https://github.com/user-attachments/assets/13910a0d-840d-495c-a75b-0b344bc75548" width="180">
+<img width="1200" height="1440" alt="Image" src="https://github.com/user-attachments/assets/83b6d2bd-bb20-4099-a4cd-0c49ee989019" />
 </td>
 </tr>
 </table>
