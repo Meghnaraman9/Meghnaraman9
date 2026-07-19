@@ -11,8 +11,7 @@
 <table>
 <tr>
 <td width="140" valign="top">
-<img src="https://github.com/user-attachments/assets/d0f4f6ee-c9cc-4eab-9f53-880c2a041f2b" />" width="140">
-</td>
+<img src="https://github.com/user-attachments/assets/d0f4f6ee-c9cc-4eab-9f53-880c2a041f2b" />"
 <td valign="top">
 
 <h4>Hey there! I'm Meghana Raman</h4>
