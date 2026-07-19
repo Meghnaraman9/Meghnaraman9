@@ -6,16 +6,15 @@
 
 <h3 align="center">Know About Me</h3>
 
-<table>
-<tr>
-<td width="140" valign="top">
-<img width="140" alt="Image" src="https://github.com/user-attachments/assets/d0f4f6ee-c9cc-4eab-9f53-880c2a041f2b" />
-</td>
-<td valign="top">
+<div align="center">
+<img width="120" alt="Image" src="https://github.com/user-attachments/assets/d0f4f6ee-c9cc-4eab-9f53-880c2a041f2b" />
+</div>
 
-<h4>Hey there! I'm Meghana Raman</h4>
+<h4 align="center">Hey there! I'm Meghana Raman</h4>
 
+<p align="center">
 I'm a Software Engineering undergrad kept alive by cold brew and an obsessive need for perfectly aligned flexboxes. In the daylight, I fake my way through algorithmic complexity discussions. In the dark, I'm busy writing janky JavaScript to automate everything from my grocery list to my class attendance.
+</p>
 
 </td>
 </tr>
@@ -78,8 +77,8 @@ Python + medical imaging, because I like my projects with actual stakes.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Meghnaraman9&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meghnaraman9&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meghnaraman9&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="60%">
+
 
 </div>
 
