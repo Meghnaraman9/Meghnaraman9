@@ -25,10 +25,19 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 ---
 
 ### Top Projects (built to avoid manual labor)
-- 🗂️ **[ProjectOne](https://github.com/Meghnaraman9/focusflow)** — A Chrome extension that blocks distractions better than I block my own excuses.
-- 🤖 **[ProjectTwo](https://github.com/Meghnaraman9/luffydudu-backend)** — A gym tracker named after the one guy who'd never skip a workout.
-- 📄 **[ProjectThree](https://github.com/Meghnaraman9/Captcha)** —eaching a machine to prove it's not a robot, ironically.
-- 📄 **[ProjectFour](https://github.com/Meghnaraman9/Leukemia_detection)**-Python + medical imaging, because I like my projects with actual stakes.
+<table>
+<tr>
+<td width="160" valign="top">
+<img src="https://private-user-images.githubusercontent.com/218101357/623653546-13910a0d-840d-495c-a75b-0b344bc75548.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ0Njc3NzcsIm5iZiI6MTc4NDQ2NzQ3NywicGF0aCI6Ii8yMTgxMDEzNTcvNjIzNjUzNTQ2LTEzOTEwYTBkLTg0MGQtNDk1Yy1hNzViLTBiMzQ0YmM3NTU0OC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxOVQxMzI0MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZDIzY2MyNzcwZTBhMzVhZGMwNTRlZTE0YjA1NmY5OTU4ZTg3NTU1ODFhZDQ4ODY0OGY0NTE2NDhkNGY3MTc3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.rx6kGCj70lFjG8fHE7hCUwqJ3a1N7YjStLBrtEQdjsI" width="140">
+</td>
+<td valign="top">
+</td>
+</tr>
+</table>
+-  **[FOCUSFLOW](https://github.com/Meghnaraman9/focusflow)** — A Chrome extension that blocks distractions better than I block my own excuses.
+-  **[Luffy](https://github.com/Meghnaraman9/luffydudu-backend)** — A gym tracker named after the one guy who'd never skip a workout.
+-  **[CAPTCHA recognition ](https://github.com/Meghnaraman9/Captcha)** —Teaching a machine to prove it's not a robot, ironically.
+-  **[Lymphoblastic Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)**-Python + medical imaging, because I like my projects with actual stakes.
 
 ---
 
