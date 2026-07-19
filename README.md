@@ -33,16 +33,16 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 <tr>
 <td valign="top">
 
-**[![FocusFlow](https://img.shields.io/badge/FocusFlow-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Meghnaraman9/focusflow)**
+𑣲⋆[![FocusFlow](https://img.shields.io/badge/FocusFlow-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Meghnaraman9/focusflow)**
 A Chrome extension that blocks distractions better than I block my own excuses.
 
-**[![Luffy](https://img.shields.io/badge/Luffy-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meghnaraman9/luffydudu-backend)**
+𑣲⋆[![Luffy](https://img.shields.io/badge/Luffy-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meghnaraman9/luffydudu-backend)**
 A gym tracker named after the one guy who'd never skip a workout.
 
-**[![CAPTCHA](https://img.shields.io/badge/CAPTCHA_Recognition-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meghnaraman9/Captcha)**
+𑣲⋆[![CAPTCHA](https://img.shields.io/badge/CAPTCHA_Recognition-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meghnaraman9/Captcha)**
 Teaching a machine to prove it's not a robot, ironically.
 
-**[![Leukemia Detection](https://img.shields.io/badge/Leukemia_Detection-000000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Meghnaraman9/Leukemia_detection)**
+𑣲⋆[![Leukemia Detection](https://img.shields.io/badge/Leukemia_Detection-000000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Meghnaraman9/Leukemia_detection)**
 Python + medical imaging, because I like my projects with actual stakes.
 
 </td>
