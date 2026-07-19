@@ -25,3 +25,36 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 ---
 
 ### Top Projects (built to avoid manual labor)
+- 🗂️ **[ProjectOne](https://github.com/Meghnaraman9/focusflow)** — A Chrome extension that blocks distractions better than I block my own excuses.
+- 🤖 **[ProjectTwo](https://github.com/Meghnaraman9/luffydudu-backend)** — A gym tracker named after the one guy who'd never skip a workout.
+- 📄 **[ProjectThree](https://github.com/Meghnaraman9/Captcha)** —eaching a machine to prove it's not a robot, ironically.
+- 📄 **[ProjectFour](https://github.com/Meghnaraman9/Leukemia_detection)**-Python + medical imaging, because I like my projects with actual stakes.
+
+---
+
+### Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meghnaraman9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BBBqVp%2BG2TUOBvaPPG5sWhQ%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meghanaraman9@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://private-user-images.githubusercontent.com/218101357/623656893-c2466ccb-79b7-4445-bb21-4f1a8cdd820d.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ0Njc1MjAsIm5iZiI6MTc4NDQ2NzIyMCwicGF0aCI6Ii8yMTgxMDEzNTcvNjIzNjU2ODkzLWMyNDY2Y2NiLTc5YjctNDQ0NS1iYjIxLTRmMWE4Y2RkODIwZC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDcxOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA3MTlUMTMyMDIwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NmUyMDk0ODhhYjdiZDljM2JmZTU0Y2RiYzIzYTY5ZjBhOTFlOWEwYzU2ODljYjU3NzExMjJiYTViOTNhZWUyYiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.VFQ4f2GGu1K_0BQFBRWR7ojRsGdElBFtErclbEQiUGY)
+
+</div>
+
+---
+
+> Code is never finished. It only becomes slightly less terrible over time.
+>
+> Every commit I make is essentially just a small, desperate apology to my future self.
+
+---
+
+### Contribution
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff)
+
+</div>
