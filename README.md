@@ -25,19 +25,23 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 ---
 
 ### Top Projects (built to avoid manual labor)
+### Top Projects (built to avoid manual labor)
+
 <table>
 <tr>
-<td width="160" valign="top">
-<img src="https://private-user-images.githubusercontent.com/218101357/623653546-13910a0d-840d-495c-a75b-0b344bc75548.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ0Njc3NzcsIm5iZiI6MTc4NDQ2NzQ3NywicGF0aCI6Ii8yMTgxMDEzNTcvNjIzNjUzNTQ2LTEzOTEwYTBkLTg0MGQtNDk1Yy1hNzViLTBiMzQ0YmM3NTU0OC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxOVQxMzI0MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZDIzY2MyNzcwZTBhMzVhZGMwNTRlZTE0YjA1NmY5OTU4ZTg3NTU1ODFhZDQ4ODY0OGY0NTE2NDhkNGY3MTc3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.rx6kGCj70lFjG8fHE7hCUwqJ3a1N7YjStLBrtEQdjsI" width="140">
-</td>
 <td valign="top">
+
+- 𐙚 **[FocusFlow](https://github.com/Meghnaraman9/focusflow)** — A Chrome extension that blocks distractions better than I block my own excuses.
+- 𐙚 **[Luffy](https://github.com/Meghnaraman9/luffydudu-backend)** — A gym tracker named after the one guy who'd never skip a workout.
+- 𐙚 **[CAPTCHA Recognition](https://github.com/Meghnaraman9/Captcha)** — Teaching a machine to prove it's not a robot, ironically.
+- 𐙚 **[Lymphoblastic Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)** — Python + medical imaging, because I like my projects with actual stakes.
+
+</td>
+<td width="160" valign="top">
+<img src="https://private-user-images.githubusercontent.com/218101357/623653546-13910a0d-840d-495c-a75b-0b344bc75548.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ0NjgyODMsIm5iZiI6MTc4NDQ2Nzk4MywicGF0aCI6Ii8yMTgxMDEzNTcvNjIzNjUzNTQ2LTEzOTEwYTBkLTg0MGQtNDk1Yy1hNzViLTBiMzQ0YmM3NTU0OC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxOVQxMzMzMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lODhkZGQ5NWM2ODA4MDc4Zjc3MTI5YjhjOGE1MDA5YzRhODg1Zjg0Y2NjYzU4YWQ4ODNhODYzZDc5ZDY3OWM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.sy6zlmXIrAFZlqPf4ylLAQZk9dqgoIVuH6sYaDIEApo" width="140">
 </td>
 </tr>
 </table>
-- 𐙚 **[FocusFlow](https://github.com/Meghnaraman9/focusflow)** — A Chrome extension that blocks distractions better than I block my own excuses.
-- 𐙚 **[Luffy](https://github.com/Meghnaraman9/luffydudu-backend)** — A gym tracker named after the one guy who'd never skip a workout.
-- 𐙚 **[CAPTCHA recognition](https://github.com/Meghnaraman9/Captcha)** — Teaching a machine to prove it's not a robot, ironically.
-- 𐙚 **[Lymphoblastic Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)** — Python + medical imaging, because I like my projects with actual stakes.
 
 ---
 
@@ -48,7 +52,6 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meghnaraman9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BBBqVp%2BG2TUOBvaPPG5sWhQ%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meghanaraman9@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://private-user-images.githubusercontent.com/218101357/623656893-c2466ccb-79b7-4445-bb21-4f1a8cdd820d.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ0Njc1MjAsIm5iZiI6MTc4NDQ2NzIyMCwicGF0aCI6Ii8yMTgxMDEzNTcvNjIzNjU2ODkzLWMyNDY2Y2NiLTc5YjctNDQ0NS1iYjIxLTRmMWE4Y2RkODIwZC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDcxOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA3MTlUMTMyMDIwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NmUyMDk0ODhhYjdiZDljM2JmZTU0Y2RiYzIzYTY5ZjBhOTFlOWEwYzU2ODljYjU3NzExMjJiYTViOTNhZWUyYiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.VFQ4f2GGu1K_0BQFBRWR7ojRsGdElBFtErclbEQiUGY)
 
 </div>
 
