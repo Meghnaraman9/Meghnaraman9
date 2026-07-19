@@ -55,7 +55,7 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 
 </div>
 
-- I don't always test my code, but when I do, I do it in production.
+> I don't always test my code, but when I do, I do it in production.
 >
 > Every bug is just a feature I haven't gaslit myself into accepting yet.
 ---
