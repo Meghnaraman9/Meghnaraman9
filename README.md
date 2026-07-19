@@ -2,3 +2,26 @@
 
 ![Banner](https://private-user-images.githubusercontent.com/218101357/623652181-da9c97e9-d0e9-4d52-9d45-2ebd396e4fff.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ0NjM5MjMsIm5iZiI6MTc4NDQ2MzYyMywicGF0aCI6Ii8yMTgxMDEzNTcvNjIzNjUyMTgxLWRhOWM5N2U5LWQwZTktNGQ1Mi05ZDQ1LTJlYmQzOTZlNGZmZi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDcxOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA3MTlUMTIyMDIzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NDc3NmQzNmRmY2JiMWZiYzZmNWYxMGU0ZTEwYzVkMWNmODI5YjlkZjU3NTE2ZGZlYjQyZjc3MzJjZWZjZTE3OSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.HeUulUwwBUrxPaBVqJ85G4-KPUR0I8rt9_q84klp0ps
 )
+</div>
+
+---
+
+### Know About Me
+
+<table>
+<tr>
+<td width="160" valign="top">
+<img src="https://private-user-images.githubusercontent.com/218101357/623653034-4be35601-9e19-4e59-9fd4-d13f62645b5b.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ0NjQ0OTMsIm5iZiI6MTc4NDQ2NDE5MywicGF0aCI6Ii8yMTgxMDEzNTcvNjIzNjUzMDM0LTRiZTM1NjAxLTllMTktNGU1OS05ZmQ0LWQxM2Y2MjY0NWI1Yi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxOVQxMjI5NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00YTNkYzFlYzM3MjdiYzhjZGYzN2Q5NjFlOTRmMTI2YTUyOWJmNTAyZDViM2E1ZmQ0ODhiYjE1NDRiZDkzODRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.ElHMvEtyAZzMbZuxK-ZwCTfv-ize01xTZjl8YnZP0AA" width="140">
+</td>
+<td valign="top">
+<h4>Hey there! I'm Meghana Raman</h4>
+<p>
+I'm a Software Engineering undergrad kept alive by cold brew and an obsessive need for perfectly aligned flexboxes. In the daylight, I fake my way through algorithmic complexity discussions. In the dark, I'm busy writing janky JavaScript to automate everything from my grocery list to my class attendance
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+### Top Projects (built to avoid manual labor)
