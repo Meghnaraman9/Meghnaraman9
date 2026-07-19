@@ -1,17 +1,16 @@
 <div align="center">
-
 <img width="1280" height="505" alt="Banner" src="https://github.com/user-attachments/assets/da9c97e9-d0e9-4d52-9d45-2ebd396e4fff" />
-
 </div>
 
 ---
 
-### Know About Me
+<h3 align="center">Know About Me</h3>
 
 <table>
 <tr>
 <td width="140" valign="top">
-<img width="1200" height="1200" alt="Image" src="https://github.com/user-attachments/assets/d0f4f6ee-c9cc-4eab-9f53-880c2a041f2b" />
+<img width="140" alt="Image" src="https://github.com/user-attachments/assets/d0f4f6ee-c9cc-4eab-9f53-880c2a041f2b" />
+</td>
 <td valign="top">
 
 <h4>Hey there! I'm Meghana Raman</h4>
@@ -23,42 +22,51 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 </table>
 
 ---
-### Top Projects (built to avoid manual labor)
+
+<h3 align="center">Top Projects (built to avoid manual labor)</h3>
 
 <table>
 <tr>
-<td width="90"><img width="736" height="539" alt="Image" src="https://github.com/user-attachments/assets/3d19210a-c9d5-4a34-be3a-2e9df42266fb" /></td>
+<td width="90"><img width="70" alt="Image" src="https://github.com/user-attachments/assets/3d19210a-c9d5-4a34-be3a-2e9df42266fb" /></td>
 <td>
 
-[FocusFlow](https://github.com/Meghnaraman9/focusflow)
+**[FocusFlow](https://github.com/Meghnaraman9/focusflow)**
 A Chrome extension that blocks distractions better than I block my own excuses.
 
 </td>
 </tr>
 <tr>
-<td width="90"><img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/0b8cfb94-d94f-431c-ad94-72c783cab7a1" />
-</td>
+<td width="90"><img width="70" alt="Image" src="https://github.com/user-attachments/assets/0b8cfb94-d94f-431c-ad94-72c783cab7a1" /></td>
 <td>
 
-[Luffy](https://github.com/Meghnaraman9/luffydudu-backend)
+**[Luffy](https://github.com/Meghnaraman9/luffydudu-backend)**
 A gym tracker named after the one guy who'd never skip a workout.
 
 </td>
 </tr>
 <tr>
-<td width="90"><img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/1f58fdb9-2f75-4aa1-8136-7a6aa58584ca" />
-</td>
+<td width="90"><img width="70" alt="Image" src="https://github.com/user-attachments/assets/1f58fdb9-2f75-4aa1-8136-7a6aa58584ca" /></td>
 <td>
 
-[Lymphoblastic Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)
+**[Lymphoblastic Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)**
 Python + medical imaging, because I like my projects with actual stakes.
 
 </td>
 </tr>
+<tr>
+<td width="90"></td>
+<td>
+
+**[CAPTCHA Recognition](https://github.com/Meghnaraman9/Captcha)**
+Teaching a machine to prove it's not a robot, ironically.
+
+</td>
+</tr>
 </table>
+
 ---
 
-###  Technologies
+<h3 align="center">Technologies</h3>
 
 <div align="center">
 
@@ -72,21 +80,20 @@ Python + medical imaging, because I like my projects with actual stakes.
 
 </div>
 
-
-
 ---
-###  Statistics
+
+<h3 align="center">Statistics</h3>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Meghnaraman9&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="48%">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meghnaraman9&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%">
 
 </div>
 
+---
 
-### Connect
+<h3 align="center">Connect</h3>
 
 <div align="center">
 
@@ -99,9 +106,10 @@ Python + medical imaging, because I like my projects with actual stakes.
 > I don't always test my code, but when I do, I do it in production.
 >
 > Every bug is just a feature I haven't gaslit myself into accepting yet.
+
 ---
 
-### Contribution
+<h3 align="center">Contribution</h3>
 
 <div align="center">
 
