@@ -24,8 +24,6 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 
 ---
 
-<img width="736" height="736" alt="623653388-81dd0a94-35c9-4629-aa84-521857eb381b" src="https://github.com/user-attachments/assets/205b25af-ae61-4e30-8ad9-5f4ab077ee20" />
-<img width="1280" height="505" alt="623652181-da9c97e9-d0e9-4d52-9d45-2ebd396e4fff" src="https://github.com/user-attachments/assets/db7d2650-a792-4f07-becb-57272d99fc7b" />
 ### Top Projects (built to avoid manual labor)
 
 <table>
