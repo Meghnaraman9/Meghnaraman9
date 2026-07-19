@@ -37,26 +37,7 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 
 </div>
 
-### Top Projects (built to avoid manual labor)
 
-<table>
-<tr>
-<td valign="top">
-
-𑣲⋆[FocusFlow](https://github.com/Meghnaraman9/focusflow) ☁︎  A Chrome extension that blocks distractions better than I block my own excuses.
-
-𑣲⋆[Luffy](https://github.com/Meghnaraman9/luffydudu-backend)  ☁︎ A gym tracker named after the one guy who'd never skip a workout.
-
-𑣲⋆[CAPTCHA](https://github.com/Meghnaraman9/Captcha)  ☁︎ Teaching a machine to prove it's not a robot, ironically.
-
-𑣲⋆[Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)  ☁︎ Python + medical imaging, because I like my projects with actual stakes.
-
-</td>
-<td width="200" valign="top">
-<img width="1200" height="1440" alt="Image" src="https://github.com/user-attachments/assets/83b6d2bd-bb20-4099-a4cd-0c49ee989019" />
-</td>
-</tr>
-</table>
 
 ---
 ###  Statistics
@@ -68,7 +49,7 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meghnaraman9&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%">
 
 </div>
----
+
 
 ### Connect
 
