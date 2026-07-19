@@ -55,16 +55,9 @@ Python + medical imaging, because I like my projects with actual stakes.
 
 </td>
 </tr>
-<tr>
-<td width="90"></td>
-<td>
-
-**[CAPTCHA Recognition](https://github.com/Meghnaraman9/Captcha)
-Teaching a machine to prove it's not a robot, ironically.
-
-</td>
-</tr>
 </table>
+---
+
 ###  Technologies
 
 <div align="center">
