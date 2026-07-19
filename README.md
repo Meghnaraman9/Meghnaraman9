@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1280" height="505" alt="Banner" src="https://github.com/user-attachments/assets/da9c97e9-d0e9-4d52-9d45-2ebd396e4fff" />
+<img width="1500" height="505" alt="Banner" src="https://github.com/user-attachments/assets/da9c97e9-d0e9-4d52-9d45-2ebd396e4fff" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td width="160" valign="top">
+<td width="200" valign="top">
 <img src="https://github.com/user-attachments/assets/81dd0a94-35c9-4629-aa84-521857eb381b" width="140">
 </td>
 <td valign="top">
