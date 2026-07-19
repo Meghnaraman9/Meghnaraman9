@@ -32,4 +32,41 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 <td valign="top">
 
 - 𐙚 **[FocusFlow](https://github.com/Meghnaraman9/focusflow)** — A Chrome extension that blocks distractions better than I block my own excuses.
-- 𐙚 **[Luffy](https://github.com/Meghnaraman9/luffydudu-backend)** — A gym tracker
+- 𐙚 **[Luffy](https://github.com/Meghnaraman9/luffydudu-backend)** — A gym tracker named after the one guy who'd never skip a workout.
+- 𐙚 **[CAPTCHA Recognition](https://github.com/Meghnaraman9/Captcha)** — Teaching a machine to prove it's not a robot, ironically.
+- 𐙚 **[Lymphoblastic Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)** — Python + medical imaging, because I like my projects with actual stakes.
+
+</td>
+<td width="160" valign="top">
+<img src="https://github.com/user-attachments/assets/13910a0d-840d-495c-a75b-0b344bc75548" width="140">
+</td>
+</tr>
+</table>
+
+---
+
+### Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meghnaraman9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-actual-username)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meghanaraman9@gmail.com)
+
+</div>
+
+---
+
+> Code is never finished. It only becomes slightly less terrible over time.
+>
+> Every commit I make is essentially just a small, desperate apology to my future self.
+
+---
+
+### Contribution
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meghnaraman9&theme=github-compact&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff)
+
+</div>
