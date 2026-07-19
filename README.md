@@ -59,7 +59,7 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 </table>
 
 ---
-### 📊 Statistics
+###  Statistics
 
 <div align="center">
 
@@ -69,6 +69,7 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 
 </div>
 ---
+
 ### Connect
 
 <div align="center">
