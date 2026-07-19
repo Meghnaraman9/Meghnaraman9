@@ -55,12 +55,9 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 
 </div>
 
----
-
-> Code is never finished. It only becomes slightly less terrible over time.
+- I don't always test my code, but when I do, I do it in production.
 >
-> Every commit I make is essentially just a small, desperate apology to my future self.
-
+> Every bug is just a feature I haven't gaslit myself into accepting yet.
 ---
 
 ### Contribution
