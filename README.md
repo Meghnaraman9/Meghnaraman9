@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://private-user-images.githubusercontent.com/218101357/623652181-da9c97e9-d0e9-4d52-9d45-2ebd396e4fff.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ0NjM5MjMsIm5iZiI6MTc4NDQ2MzYyMywicGF0aCI6Ii8yMTgxMDEzNTcvNjIzNjUyMTgxLWRhOWM5N2U5LWQwZTktNGQ1Mi05ZDQ1LTJlYmQzOTZlNGZmZi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDcxOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA3MTlUMTIyMDIzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NDc3NmQzNmRmY2JiMWZiYzZmNWYxMGU0ZTEwYzVkMWNmODI5YjlkZjU3NTE2ZGZlYjQyZjc3MzJjZWZjZTE3OSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.HeUulUwwBUrxPaBVqJ85G4-KPUR0I8rt9_q84klp0ps
+![Banner](<img width="1280" height="505" alt="Image" src="https://github.com/user-attachments/assets/da9c97e9-d0e9-4d52-9d45-2ebd396e4fff" />
 )
 </div>
 
@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td width="160" valign="top">
-<img src="https://private-user-images.githubusercontent.com/218101357/623653388-81dd0a94-35c9-4629-aa84-521857eb381b.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ0NjQ4MTEsIm5iZiI6MTc4NDQ2NDUxMSwicGF0aCI6Ii8yMTgxMDEzNTcvNjIzNjUzMzg4LTgxZGQwYTk0LTM1YzktNDYyOS1hYTg0LTUyMTg1N2ViMzgxYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxOVQxMjM1MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMmQ2MGNmZmRmY2ZkZGQ1OWJiZjMxODQ5YzI1MTdmZGFiZjg2NzMwMWM1Yjg1ZmUwODFkNWU1YzhjMzFhZTAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.cE-riNtpiEx5S2Wdm2QUf4w25A2ufXMU-rjSoPsymnk">
+<img src="<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/81dd0a94-35c9-4629-aa84-521857eb381b" />">
 </td>
 <td valign="top">
 <h4>Hey there! I'm Meghana Raman</h4>
@@ -37,7 +37,7 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 
 </td>
 <td width="160" valign="top">
-<img src="https://private-user-images.githubusercontent.com/218101357/623653546-13910a0d-840d-495c-a75b-0b344bc75548.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ0NjgyODMsIm5iZiI6MTc4NDQ2Nzk4MywicGF0aCI6Ii8yMTgxMDEzNTcvNjIzNjUzNTQ2LTEzOTEwYTBkLTg0MGQtNDk1Yy1hNzViLTBiMzQ0YmM3NTU0OC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxOVQxMzMzMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lODhkZGQ5NWM2ODA4MDc4Zjc3MTI5YjhjOGE1MDA5YzRhODg1Zjg0Y2NjYzU4YWQ4ODNhODYzZDc5ZDY3OWM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.sy6zlmXIrAFZlqPf4ylLAQZk9dqgoIVuH6sYaDIEApo" width="140">
+<img src="<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/13910a0d-840d-495c-a75b-0b344bc75548"/>
 </td>
 </tr>
 </table>
