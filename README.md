@@ -33,17 +33,13 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 <tr>
 <td valign="top">
 
-𑣲⋆[![FocusFlow](https://github.com/Meghnaraman9/focusflow)**
-A Chrome extension that blocks distractions better than I block my own excuses.
+𑣲⋆[FocusFlow](https://github.com/Meghnaraman9/focusflow)**A Chrome extension that blocks distractions better than I block my own excuses.
 
-𑣲⋆[![Luffy](https://github.com/Meghnaraman9/luffydudu-backend)**
-A gym tracker named after the one guy who'd never skip a workout.
+𑣲⋆[Luffy](https://github.com/Meghnaraman9/luffydudu-backend)**A gym tracker named after the one guy who'd never skip a workout.
 
-𑣲⋆[![CAPTCHA](https://github.com/Meghnaraman9/Captcha)**
-Teaching a machine to prove it's not a robot, ironically.
+𑣲⋆[CAPTCHA](https://github.com/Meghnaraman9/Captcha)**Teaching a machine to prove it's not a robot, ironically.
 
-𑣲⋆[![Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)**
-Python + medical imaging, because I like my projects with actual stakes.
+𑣲⋆[Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)**Python + medical imaging, because I like my projects with actual stakes.
 
 </td>
 <td width="200" valign="top">
