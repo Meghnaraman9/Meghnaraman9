@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td width="400" valign="top">
+<td width="140" valign="top">
 <img src="https://github.com/user-attachments/assets/81dd0a94-35c9-4629-aa84-521857eb381b" width="140">
 </td>
 <td valign="top">
@@ -37,7 +37,7 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 - 𐙚 **[Lymphoblastic Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)** — Python + medical imaging, because I like my projects with actual stakes.
 
 </td>
-<td width="400" valign="top">
+<td width="140" valign="top">
 <img src="https://github.com/user-attachments/assets/13910a0d-840d-495c-a75b-0b344bc75548" width="140">
 </td>
 </tr>
