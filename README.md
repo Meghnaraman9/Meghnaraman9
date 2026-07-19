@@ -27,18 +27,27 @@ I'm a Software Engineering undergrad kept alive by cold brew and an obsessive ne
 
 ### Top Projects (built to avoid manual labor)
 
+### Top Projects (built to avoid manual labor)
+
 <table>
 <tr>
 <td valign="top">
 
-- 𐙚 **[FocusFlow](https://github.com/Meghnaraman9/focusflow)** — A Chrome extension that blocks distractions better than I block my own excuses.
-- 𐙚 **[Luffy](https://github.com/Meghnaraman9/luffydudu-backend)** — A gym tracker named after the one guy who'd never skip a workout.
-- 𐙚 **[CAPTCHA Recognition](https://github.com/Meghnaraman9/Captcha)** — Teaching a machine to prove it's not a robot, ironically.
-- 𐙚 **[Lymphoblastic Leukemia Detection](https://github.com/Meghnaraman9/Leukemia_detection)** — Python + medical imaging, because I like my projects with actual stakes.
+**[![FocusFlow](https://img.shields.io/badge/FocusFlow-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Meghnaraman9/focusflow)**
+A Chrome extension that blocks distractions better than I block my own excuses.
+
+**[![Luffy](https://img.shields.io/badge/Luffy-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meghnaraman9/luffydudu-backend)**
+A gym tracker named after the one guy who'd never skip a workout.
+
+**[![CAPTCHA](https://img.shields.io/badge/CAPTCHA_Recognition-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meghnaraman9/Captcha)**
+Teaching a machine to prove it's not a robot, ironically.
+
+**[![Leukemia Detection](https://img.shields.io/badge/Leukemia_Detection-000000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Meghnaraman9/Leukemia_detection)**
+Python + medical imaging, because I like my projects with actual stakes.
 
 </td>
-<td width="140" valign="top">
-<img src="https://github.com/user-attachments/assets/13910a0d-840d-495c-a75b-0b344bc75548" width="140">
+<td width="200" valign="top">
+<img src="https://github.com/user-attachments/assets/13910a0d-840d-495c-a75b-0b344bc75548" width="180">
 </td>
 </tr>
 </table>
